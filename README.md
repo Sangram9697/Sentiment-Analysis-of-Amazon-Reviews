@@ -11,4 +11,8 @@
 6. Model Evaluation: Evaluate the model's performance using metrics like accuracy, precision, recall, and F1-score.
 7. Deployment: Create a simple web interface where users can input their own text for sentiment analysis.
 
-**Tech Stack:**                   •Python • Natural Language Processing libraries • Machine Learning frameworks
+**Tech Stack:**
+
+•Python 
+• Natural Language Processing libraries 
+• Machine Learning frameworks
