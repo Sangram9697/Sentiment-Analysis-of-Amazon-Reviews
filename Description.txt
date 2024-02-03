@@ -1,6 +1,4 @@
 Sentiment analysis on Amazon reviews involves employing natural language processing (NLP) 
 techniques to analyze and determine the sentiment expressed in customer reviews on the 
 Amazon platform. This process aims to categorize reviews as positive, negative, or neutral, 
-providing valuable insights into customer opinions about products.The goal is to create a 
-reliable tool that can assist users in quickly understanding the sentiment behind a vast 
-number of Amazon reviews, ultimately providing valuable insights for both consumers and businesses.
+providing valuable insights into customer opinions about products.
