@@ -3,7 +3,6 @@
 **Description**: Build a sentiment analysis model to classify social media posts as positive, negative, or neutral.
 
 **Steps:**
-
 1. Data Collection: Gather a dataset of social media posts with labeled sentiments.
 2. Text Preprocessing: Clean and preprocess the text data by removing special characters, stopwords, and performing tokenization.
 3. Feature Extraction: Convert the text data into numerical features using techniques like TF-IDF or word embeddings.
@@ -13,7 +12,6 @@
 7. Deployment: Create a simple web interface where users can input their own text for sentiment analysis.
 
 **Tech Stack:**
-
-• Python
+• Python  
 • Natural Language Processing libraries
 • Machine Learning frameworks
