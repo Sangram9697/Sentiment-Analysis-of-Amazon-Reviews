@@ -14,5 +14,5 @@
 **Tech Stack:**
 
 • Python  
-• Natural Language Processing libraries
+• Natural Language Processing libraries 
 • Machine Learning frameworks
