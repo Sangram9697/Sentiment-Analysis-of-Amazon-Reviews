@@ -15,4 +15,4 @@
 
 • Python  
 • Natural Language Processing libraries 
-            • Machine Learning frameworks
+• Machine Learning frameworks
