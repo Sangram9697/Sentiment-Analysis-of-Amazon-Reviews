@@ -13,6 +13,7 @@
 7. Deployment: Create a simple web interface where users can input their own text for sentiment analysis.
 
 **Tech Stack:**
+
 • Python
 • Natural Language Processing libraries
 • Machine Learning frameworks
