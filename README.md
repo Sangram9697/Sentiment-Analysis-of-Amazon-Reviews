@@ -1,4 +1,4 @@
-# TASK 1: SENTIMENT ANALYSIS ON SOCIAL MEDIA DATA
+# TASK 1: SENTIMENT ANALYSIS ON Amazon Reviews
 
 **Description**: Build a sentiment analysis model to classify social media posts as positive, negative, or neutral.
 
